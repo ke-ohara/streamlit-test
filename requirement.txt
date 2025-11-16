@@ -1,4 +1,4 @@
 streamlit
-ortools
+ortools==9.8.3296
 pandas
 numpy
